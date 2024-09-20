@@ -7,6 +7,6 @@ https://www.claflin.edu/academics-research/schools-departments/school-of-natural
 
 ct_scan_brain_segmentation.py: Computerized Tomography (CT) brain hemorrhage scan Data read, Test-Train Split, Neural, plotting, noise removal, image transformation: Padding, Cropping, Masking.
 inceptionv3-keras-segmented-pawar.ipynb, inceptionv3-keras-unsegmented-pawar.ipynb: Convolution 2D network training, confusion matrix, accuracy, sensitivity, specificity, precision, recall, confusion matrix, log-loss, and area under curve and receiver operating characteristic, AUC-ROC evaluation.
-function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
-function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
+selected function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
+selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse)
