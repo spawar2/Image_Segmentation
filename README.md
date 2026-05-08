@@ -10,7 +10,7 @@ inceptionv3-keras-segmented-pawar.ipynb, inceptionv3-keras-unsegmented-pawar.ipy
 selected function(cv2.VideoCapture, imwrite, imread, str, imshow, print, draw_bbox, build, MaskRCNN, model.load_weights, VideoCapturemodel.detect, cap.release, cv2.destroyAllWindows)
 selected function(pd.read_csv, ImageDataGenerator, tf.keras.Sequential
 , model.evaluate_generator, cv2.imread, cv2.cvtColor, cv2.resize, tf.keras.models.load_model, np.argmax, cv2.ellipse).
-![download](https://github.com/user-attachments/assets/291b9014-5fd7-479e-bc1a-c20efa83b5ec)
+![download](https://github.com/user-attachments/assets/291b9014-5fd7-479e-bc1a-c20efa83b5ec) Evaluation metrics:
 	•	Accuracy (3, 5, 10 Fold similar values), precision0.7817164179104478
 	•	recall0.73325
 	•	f1-score0.7567079463364293
